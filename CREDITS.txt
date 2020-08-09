@@ -1,22 +1,18 @@
-# Image Credits
+# Créditos por las imágenes utilizadas:
 
-All images courtesy of Unsplash (https://unsplash.com).
+Cortesía de Pexels (https://www.pexels.com).
 
-- Jonathan Pie
-	https://unsplash.com/@r3dmax?photo=3l3RwQdHRHg
-	https://unsplash.com/@r3dmax?photo=1hpE3fROU0I
-	https://unsplash.com/@r3dmax?photo=3N5ccOE3wGg
-	https://unsplash.com/@r3dmax?photo=-3h8OXvt4-0
-	https://unsplash.com/@r3dmax?photo=7FfG8zcPcXU
-	https://unsplash.com/@r3dmax?photo=EvKBHBGgaUo
-	https://unsplash.com/@r3dmax?photo=8I49k45G-3A
-	https://unsplash.com/@r3dmax?photo=iokiwAq05UU
+- Startup Stock Photos (https://www.pexels.com/es-es/@startup-stock-photos)
+	https://www.pexels.com/es-es/foto/aprendiendo-aprendizaje-billetes-colegio-7095/
+	https://www.pexels.com/es-es/foto/aconsejar-aprendiendo-aprendizaje-asesor-7096/
 
-- Thomas Tucker
-	https://unsplash.com/photos/-HPhkZcJQNk
+- Pixabay (https://www.pexels.com/es-es/@pixabay)
+	https://www.pexels.com/es-es/foto/chip-circuito-condensador-electricidad-163100/
+	https://www.pexels.com/es-es/foto/codificando-codigo-conceptual-datos-270348/
 
-- Paul Morris
-	https://unsplash.com/photos/Ovn1hyBge38
+- Ian Panelo (https://www.pexels.com/es-es/@ian-panelo)
+	https://www.pexels.com/es-es/foto/matematicas-numeros-investigacion-libro-4494641/
 
-- Davide Cantelli
-	https://unsplash.com/photos/r0q06hjTgOc
+
+* Un especial agradecimiento al servicio gratuito de Canva (https://www.canva.com/) con el que fue diseñado el logo 
+y proporcionó el resto de los fotografías que se muestran en el sitio.

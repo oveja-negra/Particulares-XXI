@@ -1,6 +1,6 @@
 @charset "UTF-8";
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
 
 /*
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
@@ -133,7 +133,7 @@
 	}
 
 	body, input, select, textarea {
-		font-family: "Poppins", sans-serif;
+		font-family: "Raleway", sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
@@ -676,7 +676,7 @@
 	}
 
 	#header {
-		background: rgba(0, 0, 0, 0.975);
+		background: #3e0b24;
 		color: #a6a6a6;
 		cursor: default;
 		height: 3.25em;
@@ -1243,7 +1243,7 @@
 					}
 
 					.banner > article p:after {
-						bottom: 80px;
+						bottom: 90px;
 					}
 
 					.banner > article h1 {
@@ -1302,11 +1302,11 @@
 
 					.banner > article p {
 						margin-bottom: 1rem;
-						font-size: 1rem;
+						font-size: 0.8rem;
 					}
 
 					.banner >article p:after {
-						bottom: 80px;
+						bottom: 75px;
 					}
 
 					.banner > article h1 {
@@ -1314,7 +1314,7 @@
 					}
 
 					.banner > article h2 {
-						font-size: 2.2em;
+						font-size: 2.1em;
 					}
 
 					.banner > article h3 {
