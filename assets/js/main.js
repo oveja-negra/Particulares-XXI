@@ -256,7 +256,7 @@ var settings = {
 
 		var	$window 	= $(window),
 			$body 		= $('body'),
-			$header 	= $('#header'),
+			$header 	= $('#head'),
 			$banner 	= $('.banner');
 
 		// Disable animations/transitions until the page has loaded.
