@@ -2563,11 +2563,8 @@
 				}
 
 
-				.split section {
+				.split section ul{
 					text-align: justify;
-				}
-				.split section h2{
-					text-align: left;
 				}
 
 					.split > * {
