@@ -2464,12 +2464,19 @@
 			font-size: 1.1em;
 		}
 
+		header.major img{
+			margin-left: 7.5rem;
+		}
 	}
 
 	@media screen and (max-width: 736px) {
 
 		header.major {
 			margin-bottom: 2em;
+		}
+
+		header.major img{
+			margin-left: 6rem;
 		}
 
 	}
@@ -2480,6 +2487,9 @@
 			font-size: 1.75em;
 		}
 
+		header.major img{
+			margin-left: 5rem;
+		}
 	}
 
 /* Table */
@@ -2714,6 +2724,7 @@
 
 		.wrapper h2{
 			font-weight: bold;
+			text-align: left;
 		}
 
 		/* Esto es por si se quiere el ícono del mail al lado del nombre
