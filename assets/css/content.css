@@ -2463,10 +2463,6 @@
 		header.major p {
 			font-size: 1.1em;
 		}
-
-		header.major img{
-			margin-left: 7.5rem;
-		}
 	}
 
 	@media screen and (max-width: 736px) {
@@ -2474,11 +2470,6 @@
 		header.major {
 			margin-bottom: 2em;
 		}
-
-		header.major img{
-			margin-left: 6rem;
-		}
-
 	}
 
 	@media screen and (max-width: 480px) {
@@ -2487,9 +2478,6 @@
 			font-size: 1.75em;
 		}
 
-		header.major img{
-			margin-left: 5rem;
-		}
 	}
 
 /* Table */
@@ -2724,7 +2712,6 @@
 
 		.wrapper h2{
 			font-weight: bold;
-			text-align: left;
 		}
 
 		/* Esto es por si se quiere el ícono del mail al lado del nombre
@@ -2763,7 +2750,7 @@
 			height: 40%;
 			border-radius: 170px;
 			border: solid 6px #c3c3c3;
-			margin-left: 8.5rem;
+			/*margin-left: 8.5rem;*/
 		}
 
 
