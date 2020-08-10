@@ -1499,7 +1499,6 @@
 					.banner > article p {
 						margin-bottom: 1rem;
 						font-size: 1.3em;
-						text-align: center;
 					}
 
 					.banner > article p:after {
@@ -1508,17 +1507,14 @@
 
 					.banner > article h1 {
 						font-size: 4em;
-						text-align: center;
 					}
 
 					.banner > article h2 {
-						font-size: 2em;
-						text-align: center;
+						font-size: 3em;
 					}
 
 					.banner > article h3 {
 						font-size: 2.5em;
-						text-align: center;
 					}
 
 				}
@@ -1532,7 +1528,6 @@
 					.banner > article p {
 						margin-bottom: 1rem;
 						font-size: 1.2rem;
-						text-align: center;
 					}
 
 					.banner >article p:after {
@@ -1541,17 +1536,14 @@
 
 					.banner > article h1 {
 						font-size: 3.5em;
-						text-align: center;
 					}
 
 					.banner > article h2 {
-						font-size: 2em;
-						text-align: center;
+						font-size: 3em;
 					}
 
 					.banner > article h3 {
 						font-size: 2.2em;
-						text-align: center;
 					}
 
 					body.is-mobile .banner > article {
@@ -1570,25 +1562,22 @@
 					.banner > article p {
 						margin-bottom: 1rem;
 						font-size: 0.8rem;
-						text-align: center;
 					}
 
 					.banner >article p:after {
-						bottom: 90px;
+						bottom: 75px;
 					}
 
 					.banner > article h1 {
-						font-size: 2.8em;
+						font-size: 2.5em;
 					}
 
 					.banner > article h2 {
-						font-size: 1em;
-						margin-left: 0.5rem;
+						font-size: 2.1em;
 					}
 
 					.banner > article h3 {
 						font-size: 1.8em;
-						text-align: center;
 					}
 
 				}
