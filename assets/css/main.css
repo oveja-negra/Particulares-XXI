@@ -1031,7 +1031,7 @@
 			@media screen and (max-width: 480px) {
 
 					#header > a:last-child {
-						padding-right: 4em;
+						padding-right: 2em;
 					}
 
 			}
@@ -1499,6 +1499,7 @@
 					.banner > article p {
 						margin-bottom: 1rem;
 						font-size: 1.3em;
+						text-align: center;
 					}
 
 					.banner > article p:after {
@@ -1507,14 +1508,17 @@
 
 					.banner > article h1 {
 						font-size: 4em;
+						text-align: center;
 					}
 
 					.banner > article h2 {
 						font-size: 3em;
+						text-align: center;
 					}
 
 					.banner > article h3 {
 						font-size: 2.5em;
+						text-align: center;
 					}
 
 				}
@@ -1528,6 +1532,7 @@
 					.banner > article p {
 						margin-bottom: 1rem;
 						font-size: 1.2rem;
+						text-align: center;
 					}
 
 					.banner >article p:after {
@@ -1536,14 +1541,17 @@
 
 					.banner > article h1 {
 						font-size: 3.5em;
+						text-align: center;
 					}
 
 					.banner > article h2 {
 						font-size: 3em;
+						text-align: center;
 					}
 
 					.banner > article h3 {
 						font-size: 2.2em;
+						text-align: center;
 					}
 
 					body.is-mobile .banner > article {
@@ -1562,6 +1570,7 @@
 					.banner > article p {
 						margin-bottom: 1rem;
 						font-size: 0.8rem;
+						text-align: center;
 					}
 
 					.banner >article p:after {
@@ -1574,10 +1583,12 @@
 
 					.banner > article h2 {
 						font-size: 2.1em;
+						text-align: center;
 					}
 
 					.banner > article h3 {
 						font-size: 1.8em;
+						text-align: center;
 					}
 
 				}

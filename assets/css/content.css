@@ -2562,9 +2562,11 @@
 					padding-bottom: 2em;
 				}
 
+				/*
 				.split section {
 					text-align: justify;
 				}
+				*/
 
 					.split > * {
 						width: 50%;
